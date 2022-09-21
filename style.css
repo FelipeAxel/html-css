@@ -1,9 +1,10 @@
 body{
     display: flexbox;
-    font-family: 'Oswald', sans-serif;
+    font-family: 'Courgette', cursive;
     background-image: url(./img/backgroundimg3.png);
     color: #C0C0C0;
     text-align: justify;
+    font-size: larger;
 }
 h2, h3{
    color: #0ea5a8   ;
